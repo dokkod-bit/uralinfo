@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4e867b87.css",
-    "main.js": "/static/js/main.f67511bf.js",
+    "main.js": "/static/js/main.c54012be.js",
     "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
     "static/media/ural_img.jpg": "/static/media/ural_img.93c469c9979780d4cb5a.jpg",
     "static/media/logo.png": "/static/media/logo.b61f1fb32e9bd83be029.png",
@@ -20,11 +20,11 @@
     "index.html": "/index.html",
     "static/media/telegram-logo.svg": "/static/media/telegram-logo.760e3490e43b5e68caabd198a36c0be9.svg",
     "main.4e867b87.css.map": "/static/css/main.4e867b87.css.map",
-    "main.f67511bf.js.map": "/static/js/main.f67511bf.js.map",
+    "main.c54012be.js.map": "/static/js/main.c54012be.js.map",
     "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4e867b87.css",
-    "static/js/main.f67511bf.js"
+    "static/js/main.c54012be.js"
   ]
 }
