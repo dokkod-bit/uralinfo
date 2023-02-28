@@ -1,11 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.071477df.css",
-    "main.js": "/static/js/main.db76322f.js",
+    "main.css": "/static/css/main.e90f74ff.css",
+    "main.js": "/static/js/main.0936f730.js",
     "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
-    "static/media/logo2.png": "/static/media/logo2.d0e762fb2d5f7c202cab.png",
     "static/media/ural_img.jpg": "/static/media/ural_img.93c469c9979780d4cb5a.jpg",
-    "static/media/logo.png": "/static/media/logo.b61f1fb32e9bd83be029.png",
     "static/media/service.jpeg": "/static/media/service.23396b52f0db3d0f45b6.jpeg",
     "static/media/m67-36.jpg": "/static/media/m67-36.ebb805bc59e708901ab3.jpg",
     "static/media/import_podship.jpg": "/static/media/import_podship.123fd2501cdb8c3cc4e6.jpg",
@@ -13,23 +11,19 @@
     "static/media/1920.jpg": "/static/media/1920.337e0856f30247e36845.jpg",
     "static/media/details-ural.jpg": "/static/media/details-ural.a2edfffe3385333f2f51.jpg",
     "static/media/tire.png": "/static/media/tire.140dc3dc382e061aabda.png",
-    "static/media/TelegramBotScreenshot1.jpg": "/static/media/TelegramBotScreenshot1.f56bfe191ca7dd6b1641.jpg",
     "static/media/tg-channel-article.jpg": "/static/media/tg-channel-article.2e1978e7cead071cd110.jpg",
-    "static/media/logo3.png": "/static/media/logo3.d3c5f85271a835e517f9.png",
-    "static/media/logo.jpg": "/static/media/logo.4b9956cf9e4b57fd16fa.jpg",
-    "static/media/logo4.png": "/static/media/logo4.c0a6ab395cd22925d669.png",
     "static/media/TelegramBotScreenshot.jpg": "/static/media/TelegramBotScreenshot.482096c1c21d3f7b92cf.jpg",
     "static/media/logo1 (1).svg": "/static/media/logo1 (1).cab97cded9ea5a2f4e1a658a150e3ef8.svg",
-    "static/media/vk-logo.svg": "/static/media/vk-logo.61cf2de74a4db3874113f88aee571e82.svg",
     "static/media/inst-logo.svg": "/static/media/inst-logo.ef15be82f3869bb7096aa13933b0460a.svg",
     "index.html": "/index.html",
-    "static/media/telegram-logo.svg": "/static/media/telegram-logo.760e3490e43b5e68caabd198a36c0be9.svg",
-    "main.071477df.css.map": "/static/css/main.071477df.css.map",
-    "main.db76322f.js.map": "/static/js/main.db76322f.js.map",
+    "static/media/vk-logo.svg": "/static/media/vk-logo.abbd370a41987fdd60848215c3859bbe.svg",
+    "static/media/telegram-logo.svg": "/static/media/telegram-logo.3295c7bd9bf1124c19a978b2c44e09c8.svg",
+    "main.e90f74ff.css.map": "/static/css/main.e90f74ff.css.map",
+    "main.0936f730.js.map": "/static/js/main.0936f730.js.map",
     "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.071477df.css",
-    "static/js/main.db76322f.js"
+    "static/css/main.e90f74ff.css",
+    "static/js/main.0936f730.js"
   ]
 }
